@@ -14,6 +14,10 @@
 		</dependency>
 	</dependencies>
 
+	<properties>
+		<java.compiler.version>1.8</java.compiler.version>
+	</properties>
+
 	<distributionManagement>
 		<repository>
 			<id>jfrog-release</id>
